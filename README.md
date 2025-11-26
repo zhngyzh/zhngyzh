@@ -1,4 +1,4 @@
-## Hi there 👋 这里是一名中山大学学生的仓库~
+## Hi there 👋
 
 <!--
 **zhngyzh/zhngyzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
